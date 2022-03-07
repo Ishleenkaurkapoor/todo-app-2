@@ -1,0 +1,31 @@
+.todo-input input {
+  display: block;
+  font-size: 1.8 rem;
+  border: 2px solid #ccc;
+  width: auto;
+}
+.todo-input input:focus {
+  outline: none;
+}
+.todo-input label {
+  margin-left: 120px;
+  align-self: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.todo-input button {
+  background-color: none;
+  margin: auto;
+  border: 2px solid white;
+  padding: 5px 10px;
+  font-size: 1.8em;
+  margin-top: 10px;
+  display: block;
+  color: peru;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 8px;
+}

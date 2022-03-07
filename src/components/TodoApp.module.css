@@ -1,0 +1,12 @@
+.todo-form {
+  background-color: rgb(196, 142, 196);
+  color: white;
+  margin-left: 40px;
+  padding: 16px;
+  width: 98%;
+  box-shadow: 0px 2 px 8 px(0, 0, 0, 0.26);
+}
+
+.todo-list li {
+  background-color: brown;
+}
